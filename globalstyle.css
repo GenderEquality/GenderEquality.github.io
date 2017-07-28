@@ -1,4 +1,4 @@
-..tablink {background-color: #FFC0CB;float: left;border: none;outline: none;cursor: pointer;padding: 14px 16px;font-size: 17px; width: 25%;}
+.tablink {background-color: #FFC0CB;float: left;border: none;outline: none;cursor: pointer;padding: 14px 16px;font-size: 17px; width: 25%;}
 .jc {text-align: center;font-family: "Oxygen";}
 .tablink:hover {background-color: #6495ED;}
 h1 {border-style: solid;font-size: 50px;}
